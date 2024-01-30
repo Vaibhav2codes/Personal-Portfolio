@@ -56,6 +56,18 @@ export const Skills = () => {
                                 <img src={meter2} alt="Image" />
                                 <h5>Javascript</h5>
                             </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>SQL</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter1} alt="Image" />
+                                <h5>OOPs Programming</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>NodeJS</h5>
+                            </div>
                         </Carousel>
                     </div>
                 </div>
