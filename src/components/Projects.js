@@ -22,8 +22,8 @@ export const Projects = () => {
       // Link: projLink1,
     },
     {
-      title: "simon game",
-      description: "- Build a web game based on simon that asks for user input and remember the colour sequence of user and also randomly generted by computer.",
+      title: "Food Ordering Website",
+      description: "- Web application using the MERN stack (MongoDB, Express.js, React, and Node.js), focusing on creating an efficient and powerful food-ordering website. The project encompasses the entire development lifecycle,from backend server setup to frontend user interface, demonstrating proficiency in data pipelines, real-time updates, and problem-solving",
       imgUrl: projImg2,
       // Link:"github.com/Vaibhav2codes/TIC_TAC_TOE",
     },
@@ -34,8 +34,8 @@ export const Projects = () => {
       // Link:"github.com/Vaibhav2codes/TIC_TAC_TOE",
     },
     {
-      title: "TIC TAC TOE",
-      description: "- A Fully functioned TIC-TAC-TOE game",
+      title: "Social Media App",
+      description: "- Developed a comprehensive MERN stack web application, demonstrating proficiency in data pipelines, real-time updates,and problem-solving. React’s component-based architecture facilitates the development of reusable and modular UI elements, crucial for a complex application like a social media platform.",
       imgUrl: projImg4,
       // Link:"github.com/Vaibhav2codes/TIC_TAC_TOE",
     },
