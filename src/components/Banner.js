@@ -57,7 +57,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Vaibhav`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Software Developer", "Web Developer"]'><span className="wrap">{text}</span></span></h1>
-                  <p>I'm currently pursuing my Btech Degree in electronics and communication branch in NIT Kurukshetra.I am a fun loving person keen to learn new things every day.I love to act,play sports like cricket,football,basketball.</p>
+                  <p>I'm currently pursuing my Btech Degree in electronics and communication branch in NIT Kurukshetra,where I acquired a robust foundation in various technical skills and technologies.My focus lies in exploring roles related to technical support and other technology-centric positions. The dynamic environment and growth opportunities presented by both organization and the location greatly appeal to me.</p>
 
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
