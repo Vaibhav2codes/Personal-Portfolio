@@ -28,7 +28,7 @@ export const Projects = () => {
       // Link:"github.com/Vaibhav2codes/TIC_TAC_TOE",
     },
     {
-      title: "spotify working clone",
+      title: "Spotify working clone",
       description: "- Using HTML,CSS,JavaScript build a working website clone of spotify that can play,next,back,pause,increase or decrease volume of music",
       imgUrl: projImg3,
       // Link:"github.com/Vaibhav2codes/TIC_TAC_TOE",
@@ -46,8 +46,8 @@ export const Projects = () => {
       // Link:"github.com/Vaibhav2codes/TIC_TAC_TOE",
     },
     {
-      title: "ScoreCard Reactapp",
-      description: "- Build a Reactapp of a scorecard of badminton matches and attached with each scorecard analysis video of that match.",
+      title: "Medical Insurance Cost Prediction",
+      description: "- Developed an innovative Flask-based web application empowered by Python's Artificial Intelligence capabilities, enabling accurate predictions of an individual's medical insurance costs with precision and efficiency.Implemented robust data pipelines and ETL processes to gather and preprocess diverse data sources.",
       imgUrl: projImg6,
       // Link:"github.com/Vaibhav2codes/TIC_TAC_TOE",
     },
